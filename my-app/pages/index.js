@@ -10,7 +10,7 @@ export default function Home() {
     <main className="max-w-[1024px] mx-auto p-5">
       <Header/>
       <AboutMe/>
-      <Hero />
+      {/* <Hero /> */}
       {/* <Hero/>
       <Skills/> */}
     </main>
